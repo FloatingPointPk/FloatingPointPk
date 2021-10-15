@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on everything i get stuck on.
-- 📫 floatingpointpl@gmail.com
+- 📫 floatingpointpk@gmail.com
 
 <!---
 FloatingPointPk/FloatingPointPk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
